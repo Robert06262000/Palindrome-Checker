@@ -13,7 +13,7 @@ checkBtn.addEventListener('click', () => {
     let text = textInput.value;
     console.log(text);
 
-    // Text is empy, azAZ09 or other
+    // Text is empty, azAZ09 or other
     // Test empty
     if (!text) {
         alert("Please input a value");
